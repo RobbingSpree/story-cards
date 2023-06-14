@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "card_contents",
+  "name": "input_injest",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

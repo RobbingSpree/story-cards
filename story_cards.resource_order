@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Card_Glow_Overlay_Gold","order":10,"path":"sprites/Card_Glow_Overlay_Gold/Card_Glow_Overlay_Gold.yy",},
+    {"name":"Card_Glow_Overlay_White","order":9,"path":"sprites/Card_Glow_Overlay_White/Card_Glow_Overlay_White.yy",},
+    {"name":"Description_Area_Parchment","order":4,"path":"sprites/Description_Area_Parchment/Description_Area_Parchment.yy",},
+    {"name":"Card_Glow_Overlay_Orange","order":8,"path":"sprites/Card_Glow_Overlay_Orange/Card_Glow_Overlay_Orange.yy",},
+    {"name":"card_back","order":1,"path":"sprites/card_back/card_back.yy",},
+    {"name":"card_art_surface","order":2,"path":"sprites/card_art_surface/card_art_surface.yy",},
+    {"name":"outline_1px","order":5,"path":"sprites/outline_1px/outline_1px.yy",},
+    {"name":"button_parent","order":1,"path":"objects/button_parent/button_parent.yy",},
+    {"name":"Cardback_00","order":3,"path":"sprites/Cardback_00/Cardback_00.yy",},
+    {"name":"Title_Ribbon_Grey","order":7,"path":"sprites/Title_Ribbon_Grey/Title_Ribbon_Grey.yy",},
+    {"name":"input_injest","order":1,"path":"scripts/input_injest/input_injest.yy",},
+    {"name":"outline_2px","order":6,"path":"sprites/outline_2px/outline_2px.yy",},
+    {"name":"card_generic","order":2,"path":"objects/card_generic/card_generic.yy",},
+  ],
+}

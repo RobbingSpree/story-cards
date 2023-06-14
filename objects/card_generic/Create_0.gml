@@ -1,9 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-index = irandom(64)
-title = card_title(index)
-flavor = card_flavor(index);
+index = ds_list_find_value(new_card.list,new_card.card_count);
+//title = card_title(index)
+//flavor = card_flavor(index);
+title = inndex.tite;
+flavor = index.flav;
 bg_spr = noone;
 
 animate = false;
