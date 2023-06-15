@@ -1,91 +1,90 @@
-card name;flavor text
-cloak of the adventurer;worn heavy on the shoulders of the brave
-wound of the past;it cut deep and was filled with time
-Choice to undo the past;remove the scars of the past; whatever the cost
-Fate Set in Sand;What appears to be unchangeable wears slowly away
-Weapon of progress;wielded with the best intentions, always harms at least one person
-The Sword Once Drawn;It cannot protect anyone once it escapes it's sheath
-The Shield Held Close;To turn away harm is to expect it first
-They, who stands at the precipice;To get to the start of an adventure is half the challenge
-Dethrone god and be home by lunch;It got out of hand, but you don't regret it
- Almost full journal;The story continues beyond the final page
- Comfort Food;Warm and welcoming presence for a cold time
- Returning Home;The longer you're away the less it is
- Fantastic at first glance;You can't look again; it will lose its magic if you do
- Recorded in broken stone;the writing starts "let it be known forever more...", the rest is missing
- Thread to be pulled;You're not sure what it's attached to, but you're going to find out soon
- Seed scattered at your feet;You feel like a lot of the potential was just lost
- Well Worn Tome;This either contains very useful knowledge or a very good joke
- Cunning Reflection;It doesn't reflect a lie, but the image can't be trusted either
- Technicolor Underwear;Vibrant for only the sake of the wearer
- Unreachable Horizon;You can reach the horizon if you're in a hole
- Shelf of Unopened Books;Did other people know better than to look within, or were they to proud to bother?
-  Probably Magic;It was too convenient and beneficial to be mere chance
- The Complex Maths of its Parts;You now know better than to try to understand the inner workings by disassembly
- Song to Soothe the Soul;The beauty was in the listener, the song asked it to come forth.
- Well Kept Secret;Very well manicured, hardly worth noticing at all
- To whom this burden falls;you should be concerned
- Problems from upon high;It all rolls downhill when the gods live atop.
- Pent-up Potent Poison;A single scratch can become deadly...for the attacker
- Because it is;Let's just roll with it
- Several Questions;Your position in this conversation is buoyed by the questions you raise
- I Hope This Finds You;...well
- Poison Penned Letter;Courage to speak from their heart, just not to your face
- Thine Double Dog Dare;Fae rules entreat you to partake
- They, Who await beyond the horizon;You'll meet them in time, and what a time indeed
- They, who stand at your side;And Bigfoot spoke...
- Eons old footprint;Time is a circle, you stand where they did
- A look of suspicion or bewilderment;Can't tell if you succeeded or failed, either way it was amazing
- And that's how you do it!;They aren't wrong, it is
- A rival kept within arms reach;Be always ready to throw down
- Cast Hope into the Future;You've sewn a dangerous seed
- While the Room Burns;Now! We must fight Now!
- Tunnel Vision;Let the world fall away
- It's One More than Zero;It's not Nothing
- Stranger met on the trail;I hear they give boons or murder, either or
- A Curious Set of Skills; It's either beyond your reckoning or to cover other's shortfalls
- Hands with many scars;Well worn from work
- High Speed Approach;More emotion means more speed
- Like a knife to the heart;You'll cut to the chase
- This kick calls for more feet;I won't regret this...as long as it lands
- When words fail;But enough talk, Have at you!
- No one will notice;An aside to the audience is silent to all actors
- Out-of-Genre Experience;What else are anvils for?
- They have to be evil;Did you see their moustache?
- No Stated Cause for Concern;Do we take them at their word?
- A foul god brought low;Now you're close enough for me to punch
- It doesn't need to be graceful;But if we're prepared it can be
- For want of a nail;I can't NOT use the hammer!?
- Subtext left unspoken;I'm not gonna say it, but the narrator will let you know I thought it
- Beautiful Clothed Armor;Suit up for a battle of wits
- Healing power of a kiss;I wasn't dead, but that has revived me
- Honest Spies;We've been told what they took 
- Beauty of the Flame;Look; but don't touch
- Emulating the Masters;Walk in their shoes to grok their ways
- I Caught it!;With my face, but that's not the point
- Enguarde!;We're going to fight, but you have to be ready for it
- Just Deserts;nothing but can satisfy this hunger
- A counter offer of violence;The last offer in barter is a hand full of fist
- Words spun from gold;Seem weighty but easy to bend them into something else
- Even the land abandons me;That hill left overnight
- Death isn't in the cards;It's out in the world
- Snap!;A more concerning sound when there's no trees around
- Eyes in the dark;Spend a lot of timing watching nothing till you come along
- We'll use magic to end it;the costs and my life be damned
- From nowhere came somewhere;where else would it have come from?
- Destiny's punchline;kinder than fate's dropkick
- All according to plan;translators note: plan means plan
- Armed to the teeth;a tusk is just a knife you can kiss with
- If looks could kill;I'd have brought a mirror
- Stooping to their level;down here in the muck I can get a good grip on you
- Cool words from a cool heart;Hot air from a hot head
- Draw a line in the sand;Don't make me come down and draw it again, ocean
- Come hell or high water;I wasn't asking for them but they came none the less
- Entrancing Mystery;Can you resist staying to solve the unsolvable?
- Do the impossible;Why don't I give it a shot anyway?
- See the invisible;You call that hidden?
- Grand trees with roots you see;hold not the ground but your attention 
- Enviable silence;It's not quiet, you just aren't listening hard enough.
- Total victory;As expected, you've left me nothing to mourne
- The recinded moment;It's gone, you unmade it, why?
- 
+card name,flavor text
+"cloak of the adventurer","worn heavy on the shoulders of the brave"
+"wound of the past","it cut deep and was filled with time"
+"Choice to undo the past","remove the scars of the past, whatever the cost"
+"Fate Set in Sand","What appears to be unchangeable wears slowly away"
+"Weapon of progress","wielded with the best intentions, always harms at least one person"
+"The Sword Once Drawn","It cannot protect anyone once it escapes it's sheath"
+"The Shield Held Close","To turn away harm is to expect it first"
+"They, who stands at the precipice","To get to the start of an adventure is half the challenge"
+"Dethrone god and be home by lunch","It got out of hand, but you don't regret it"
+"Almost full journal","The story continues beyond the final page"
+"Comfort Food","Warm and welcoming presence for a cold time"
+"Returning Home","The longer you're away the less it is"
+"Fantastic at first glance","You can't look again"," it will lose its magic if you do"
+"Recorded in broken stone","the writing starts "let it be known forever more...", the rest is missing"
+"Thread to be pulled","You're not sure what it's attached to, but you're going to find out soon"
+"Seed scattered at your feet","You feel like a lot of the potential was just lost"
+"Well Worn Tome","This either contains very useful knowledge or a very good joke"
+"Cunning Reflection","It doesn't reflect a lie, but the image can't be trusted either"
+"Technicolor Underwear","Vibrant for only the sake of the wearer"
+"Unreachable Horizon","You can reach the horizon if you're in a hole"
+"Shelf of Unopened Books","Did other people know better than to look within, or were they to proud to bother?"
+"Probably Magic","It was too convenient and beneficial to be mere chance"
+"The Complex Maths of its Parts","You now know better than to try to understand the inner workings by disassembly"
+"Song to Soothe the Soul","The beauty was in the listener, the song asked it to come forth."
+"Well Kept Secret","Very well manicured, hardly worth noticing at all"
+"To whom this burden falls","you should be concerned"
+"Problems from upon high","It all rolls downhill when the gods live atop."
+"Pent-up Potent Poison","A single scratch can become deadly...for the attacker"
+"Because it is","Let's just roll with it"
+"Several Questions","Your position in this conversation is buoyed by the questions you raise"
+"I Hope This Finds You","...well"
+"Poison Penned Letter","Courage to speak from their heart, just not to your face"
+"Thine Double Dog Dare","Fae rules entreat you to partake"
+"They, Who await beyond the horizon","You'll meet them in time, and what a time indeed"
+"They, who stand at your side","And Bigfoot spoke..."
+"Eons old footprint","Time is a circle, you stand where they did"
+"A look of suspicion or bewilderment","Can't tell if you succeeded or failed, either way it was amazing"
+"And that's how you do it!","They aren't wrong, it is"
+"A rival kept within arms reach","Be always ready to throw down"
+"Cast Hope into the Future","You've sewn a dangerous seed"
+"While the Room Burns","Now! We must fight Now!"
+"Tunnel Vision","Let the world fall away"
+"It's One More than Zero","It's not Nothing"
+"Stranger met on the trail","I hear they give boons or murder, either or"
+"A Curious Set of Skills","It's either beyond your reckoning or to cover other's shortfalls"
+"Hands with many scars","Well worn from work"
+"High Speed Approach","More emotion means more speed"
+"Like a knife to the heart","You'll cut to the chase"
+"This kick calls for more feet","I won't regret this...as long as it lands"
+"When words fail","But enough talk, Have at you!"
+"No one will notice","An aside to the audience is silent to all actors"
+"Out-of-Genre Experience","What else are anvils for?"
+"They have to be evil","Did you see their moustache?"
+"No Stated Cause for Concern","Do we take them at their word?"
+"A foul god brought low","Now you're close enough for me to punch"
+"It doesn't need to be graceful","But if we're prepared it can be"
+"For want of a nail","I can't NOT use the hammer!?"
+"Subtext left unspoken","I'm not gonna say it, but the narrator will let you know I thought it"
+"Beautiful Clothed Armor","Suit up for a battle of wits"
+"Healing power of a kiss","I wasn't dead, but that has revived me"
+"Honest Spies","We've been told what they took"
+"Beauty of the Flame","Look, but don't touch"
+"Emulating the Masters","Walk in their shoes to grok their ways"
+"I Caught it!","With my face, but that's not the point"
+"Enguarde!","We're going to fight, but you have to be ready for it"
+"Just Deserts","nothing but can satisfy this hunger"
+"A counter offer of violence","The last offer in barter is a hand full of fist"
+"Words spun from gold","Seem weighty but easy to bend them into something else"
+"Even the land abandons me","That hill left overnight"
+"Death isn't in the cards","It's out in the world"
+"Snap!","A more concerning sound when there's no trees around"
+"Eyes in the dark","Spend a lot of timing watching nothing till you come along"
+"We'll use magic to end it","the costs and my life be damned"
+"From nowhere came somewhere","where else would it have come from?"
+"Destiny's punchline","kinder than fate's dropkick"
+"All according to plan","translators note: plan means plan"
+"Armed to the teeth","a tusk is just a knife you can kiss with"
+"If looks could kill","I'd have brought a mirror"
+"Stooping to their level","down here in the muck I can get a good grip on you"
+"Cool words from a cool heart","Hot air from a hot head"
+"Draw a line in the sand","Don't make me come down and draw it again, ocean"
+"Come hell or high water","I wasn't asking for them but they came none the less"
+"Entrancing Mystery","Can you resist staying to solve the unsolvable?"
+"Do the impossible","Why don't I give it a shot anyway?"
+"See the invisible","You call that hidden?"
+"Grand trees with roots you see","hold not the ground but your attention"
+"Enviable silence","It's not quiet, you just aren't listening hard enough."
+"Total victory","As expected, you've left me nothing to mourne"
+"The recinded moment","It's gone, you unmade it, why?"

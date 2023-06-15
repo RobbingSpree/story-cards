@@ -9,15 +9,16 @@ randomize();
 str = "Draw Another Card";
 list = ds_list_create();
 card_count = 0;
-card_num = 64;
+card_num = 89;
 
-var text = load_csv(input.csv,";",false);
+text = load_csv("input.csv");
 var hei = ds_grid_height(text);
 	
 for (var i=0; i<hei; i++) {
 	var item = {
-		tite : string(text[# i, 0]),
-		flav : string(text[# i, 1]),
+		tite : string(text[# 0, i]),
+		flav : string(text[# 1, i]),
+		ind : i
 	}
 	ds_list_add(list,item);
 }

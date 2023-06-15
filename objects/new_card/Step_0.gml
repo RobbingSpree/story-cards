@@ -4,19 +4,18 @@
 if action == true {
 	//do something
 	if instance_exists(card_generic) {
-		with (card_generic) {
-			destroy =true;
-		}
+		instance_destroy(card_generic);
 	} else {
+		
 		var card = instance_create_depth(room_width*2,room_height/2,1,card_generic);
-		card.index = card_count;
-		card.title = card_title(card_count);
-		card.flavor = card_flavor(card_count);
+		card.title = ds_list_find_value(list,card_count).tite;
+		card.flavor = ds_list_find_value(list,card_count).flav;
+		action = false;
+		
 		card_count++;
 		if card_count = card_num {
 			ds_list_shuffle(list);
 			card_count = 0;
 		}
-		action = false;
 	}
 }
